@@ -5,5 +5,6 @@ add master
 add local
 add remote
 add local dev
+add local dev 1
 
 
