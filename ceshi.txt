@@ -7,4 +7,5 @@ add remote
 add local master
 add local dev
 add local dev 1
+add local master1
 
