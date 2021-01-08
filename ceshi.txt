@@ -1,11 +1,3 @@
-撒大声地
-add  dev
-add local master
-add master
-add local
-add remote
-add local dev
-add local dev 1
-add local dev 2
+add local dev 3
 
 
